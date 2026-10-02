@@ -2,8 +2,8 @@
 
 |                  |                                         |
 |:-----------------|:----------------------------------------|
-| **Student ID**   |                                         |
-| **Student Name** |                                         |
+| **Student ID**   | 250600445                               |
+| **Student Name** | Ahamadjan Dost                          |
 | **Module Code**  | SPC5004                                 |
 | **Module Title** | Tools and Applications of Generative AI |
 | **Assessment**   | 01 Code Portfolio                       |
